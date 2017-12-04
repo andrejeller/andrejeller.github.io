@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "andrejeller",
-    "currentPage": "index.html",
+    "currentPage": "fotos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2263,8 +2263,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/keywest.site-1600x1200.png",
-                "thumb": "@PROJECT_PATH@/assets/images/keywest.site-1600x1200-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/keywest.site-1600x1200-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/keywest.site-1600x1200-800x600-800x600.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2287,12 +2287,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/praia.site-1280x960.png",
-                "thumb": "@PROJECT_PATH@/assets/images/praia.site-1280x960-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/praia.site-1280x960-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/praia.site-1280x960-800x600-800x600.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -2304,7 +2304,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
