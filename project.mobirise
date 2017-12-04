@@ -2275,8 +2275,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/miami.site-1600x1200.png",
-                "thumb": "@PROJECT_PATH@/assets/images/miami.site-1600x1200-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/miami.site-1600x1200-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/miami.site-1600x1200-800x600-800x600.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2292,19 +2292,19 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/florianopolis.site-1280x960.png",
-                "thumb": "@PROJECT_PATH@/assets/images/florianopolis.site-1280x960-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/florianopolis.site-1280x960-800x600.png",
+                "thumb": "@PROJECT_PATH@/assets/images/florianopolis.site-1280x960-800x600-800x600.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           }
