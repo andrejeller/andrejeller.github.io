@@ -7395,16 +7395,24 @@ body {
 .cid-qCTwbdtFGM .mbr-text {
   text-align: center;
 }
-.cid-qCTwbdV7aZ {
-  padding-top: 15px;
+.cid-qCXkcmqb0W {
+  padding-top: 30px;
   padding-bottom: 60px;
   background: #ffffff;
 }
-.cid-qCTwbdV7aZ .video-block {
+.cid-qCXkcmqb0W .image-block {
   margin: auto;
 }
+.cid-qCXkcmqb0W figcaption {
+  position: relative;
+}
+.cid-qCXkcmqb0W figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
 @media (max-width: 768px) {
-  .cid-qCTwbdV7aZ .video-block {
+  .cid-qCXkcmqb0W .image-block {
     width: 100% !important;
   }
 }
