@@ -4157,17 +4157,6 @@ body {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-.cid-qCZanoRJfs {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qCZanoRJfs .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qCZanoRJfs H2 {
-  text-align: left;
-}
 .cid-qD45NskCyS {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -4218,6 +4207,56 @@ body {
     padding: 15px;
   }
 }
+.cid-qD45B1sezk {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-qD45B1sezk .mbr-text,
+.cid-qD45B1sezk blockquote {
+  color: #767676;
+}
+.cid-qD45B1sezk .mbr-text {
+  text-align: center;
+}
+.cid-qD40ZEUd6u {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-qD40ZEUd6u .card-img {
+  background-color: #fff;
+}
+.cid-qD40ZEUd6u .card-box {
+  padding: 2rem;
+}
+.cid-qD40ZEUd6u h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qD40ZEUd6u p {
+  text-align: left;
+}
+.cid-qD40ZEUd6u .mbr-text {
+  color: #767676;
+}
+.cid-qD40ZEUd6u .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qD40ZEUd6u .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qD40ZEUd6u .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
 .cid-qD46fk24gP {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -4231,7 +4270,7 @@ body {
   text-align: center;
 }
 .cid-qCZdUIzZiD {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -4263,56 +4302,6 @@ body {
 }
 @media (min-width: 992px) {
   .cid-qCZdUIzZiD .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
-}
-.cid-qD45B1sezk {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #efefef;
-}
-.cid-qD45B1sezk .mbr-text,
-.cid-qD45B1sezk blockquote {
-  color: #767676;
-}
-.cid-qD45B1sezk .mbr-text {
-  text-align: center;
-}
-.cid-qD40ZEUd6u {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-qD40ZEUd6u .card-img {
-  background-color: #fff;
-}
-.cid-qD40ZEUd6u .card-box {
-  padding: 2rem;
-}
-.cid-qD40ZEUd6u h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qD40ZEUd6u p {
-  text-align: left;
-}
-.cid-qD40ZEUd6u .mbr-text {
-  color: #767676;
-}
-.cid-qD40ZEUd6u .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qD40ZEUd6u .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-qD40ZEUd6u .my-col {
     flex: 0 0 20%;
     max-width: 20%;
     padding: 15px;
