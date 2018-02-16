@@ -69,7 +69,7 @@ section {
     top: 0; }
 
 .hidden {
-  visibility: visible; }
+  visibility: hidden; }
 
 .mbr-z-index20 {
   z-index: 20; }
