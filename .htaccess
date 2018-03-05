@@ -1,6 +1,6 @@
 # Override GoDaddy defaults that inhibit URL rewriting
 Options -MultiViews
-rewriteEngine On
+RewriteEngine On
 
 # Rewrite URLs to remove www from domain name
 RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
