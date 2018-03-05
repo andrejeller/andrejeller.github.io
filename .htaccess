@@ -1,7 +1,3 @@
-# Override GoDaddy defaults that inhibit URL rewriting
-Options -MultiViews
 RewriteEngine On
-
-# Rewrite URLs to remove www from domain name
-RewriteCond %{HTTPS} off
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^ %{REQUEST_SCHEME}://%1%{REQUEST_URI} [R=301,L]
