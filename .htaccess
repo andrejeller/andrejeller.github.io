@@ -3,5 +3,5 @@ Options -MultiViews
 RewriteEngine On
 
 # Rewrite URLs to remove www from domain name
-RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
-RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
