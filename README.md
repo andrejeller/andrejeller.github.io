@@ -1,2 +1,2 @@
-# André Jeller Entertainment
-Este é um repositório para hospedar o site andrejeller.github.io e nada mais.
+# André Jeller Studio
+Este é um repositório para hospedar o site andrejeller.com e nada mais.
